@@ -1,0 +1,20 @@
+{
+  "project": "natalia-tebet",
+  "direction": "Cuidado especializado, sem constrangimento",
+  "colors": {
+    "sand": "#F5F1EB",
+    "paper": "#FDFCFA",
+    "ink": "#2D2D2D",
+    "inkMuted": "#5E5E5E",
+    "teal": "#1F6B6A",
+    "tealDark": "#155352",
+    "tealLight": "#E6F2F1",
+    "stone": "#E5E0D8"
+  },
+  "typography": {
+    "display": "Source Serif 4",
+    "body": "Inter"
+  },
+  "primaryAction": "Agendar pelo WhatsApp",
+  "deployUrl": "https://natalia-tebet.vercel.app"
+}
